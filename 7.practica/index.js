@@ -1,6 +1,6 @@
 import Bill from './bills/index.js'
 import BillSerializer from './bills/serializer.js'
-
+            
 let customerData = {
     "name":"Joselito",
     "address":"calle falsa 123",
